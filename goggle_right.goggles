@@ -1,7 +1,7 @@
 name: News from the Right
-! description: Rank results to boost content from sources with an MFBC of Right or Lean Right.
+! description: Rank results to boost content from sources with  bias
 ! public: true
-! author: Someone
+! author: A programmer
 ! homepage: none
 ! avatar: #ca0800
 
@@ -479,3 +479,4 @@ $boost=4,site=world.wng.org
 $boost=4,site=worldtribune.com
 $boost=4,site=yaf.org
 $boost=4,site=youngcons.com
+
