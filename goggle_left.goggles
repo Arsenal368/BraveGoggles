@@ -1,9 +1,9 @@
 name: News from the Left
-! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Left or Lean Left.
+! description: Rank results to boost content from sources with  bias
 ! public: true
-! author: someone
+! author: A programmer
 ! homepage: none
-! avatar: #0047ca
+! avatar: #ca0800
 
 $boost=4,site=act.tv
 $boost=4,site=addictinginfo.com
@@ -789,3 +789,4 @@ $boost=4,site=youthradio.org
 $boost=4,site=youthrights.org
 $boost=4,site=zdf.de
 $boost=4,site=zeit.de
+
