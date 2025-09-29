@@ -1,9 +1,9 @@
 name: News from the Center
-! description: Rank results to boost content from sources with an AllSides Media Bias Rating™ of Center.
+! description: Rank results to boost content from sources with center bias
 ! public: true
-! author: Someone
+! author: A programmer
 ! homepage: none
-! avatar: #00ca47
+! avatar: #ca0800
 
 $boost=4,site=180report.com
 $boost=4,site=680news.com
@@ -356,3 +356,4 @@ $boost=4,site=wral.com
 $boost=4,site=wri.org
 $boost=4,site=wsj.com
 $boost=4,site=www3.nhk.or.jp
+
