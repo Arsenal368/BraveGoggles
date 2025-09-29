@@ -1,4 +1,4 @@
-name: News from the Right
+! name: News from the Right
 ! description: Rank results to boost content from sources with  bias
 ! public: true
 ! author: A programmer
@@ -479,4 +479,5 @@ $boost=4,site=world.wng.org
 $boost=4,site=worldtribune.com
 $boost=4,site=yaf.org
 $boost=4,site=youngcons.com
+
 
